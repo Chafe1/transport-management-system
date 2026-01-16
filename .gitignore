@@ -1,7 +1,3 @@
-# Database configs
-includes/db.php
-includes/config.php
-
 # OS files
 .DS_Store
 Thumbs.db
