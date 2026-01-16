@@ -1,0 +1,14 @@
+# Database configs
+includes/db.php
+includes/config.php
+
+# OS files
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+
+# Temp files
+*.tmp
+*.log
+update_pass.php
